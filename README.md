@@ -1,5 +1,5 @@
 # UFC_Data_Mining_Project
-### Group Members
+#### Group Members
 
 ### Alexadriana Thammavongsa
 ### David Rush 
